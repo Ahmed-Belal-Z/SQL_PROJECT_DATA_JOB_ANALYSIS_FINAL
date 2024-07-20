@@ -34,8 +34,15 @@ Key Objectives and Findings:
 
         
 Tools and Technologies Used:
+
+    • SQL (PostgreSQL): For database creation, data ingestion, schema design, and complex queries.
+    
     • SQL: For data extraction, filtering, and joining job postings data.
+        ◦ Utilized SQL to analyze 750,000+ data-related job listings and gain insights on what it takes to land a job in analytics.
+        ◦ Utilized SQL to extract data from 4 different related tables from Job Postings databases using JOIN and VIEW.
+        
     • Python: For data analysis, visualization, and deriving insights.
+        ◦ Aggregated and visualized the data using pandas, matplotlib, and seaborn to produce a detailed analytical report.
 
     
 Conclusion:
